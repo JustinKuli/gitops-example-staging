@@ -18,6 +18,7 @@ metadata:
   name: promote-demo
   labels:
     app: demo
+    newer: you-know-it
 spec:
   selector:
     matchLabels:
